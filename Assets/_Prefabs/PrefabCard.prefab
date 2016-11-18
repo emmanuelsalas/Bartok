@@ -10,7 +10,8 @@ GameObject:
   - 4: {fileID: 400000}
   - 212: {fileID: 21200000}
   - 65: {fileID: 6500000}
-  - 114: {fileID: 114000011031254040}
+  - 54: {fileID: 54000013040998664}
+  - 114: {fileID: 114000012266188090}
   m_Layer: 0
   m_Name: PrefabCard
   m_TagString: Untagged
@@ -38,10 +39,10 @@ BoxCollider:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2.56, y: 3.56, z: 0.2}
+  m_Size: {x: 2.56, y: 3.56, z: 0.1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &21200000
 SpriteRenderer:
@@ -87,7 +88,22 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 100000}
   m_IsPrefabParent: 1
---- !u!114 &114000011031254040
+--- !u!54 &54000013040998664
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &114000012266188090
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -95,7 +111,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f12734f1fc6e540cf994a4fec216e559, type: 3}
+  m_Script: {fileID: 11500000, guid: 9e8e0fffbb9ee4521aff0db3a05168a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   suit: 
@@ -111,15 +127,8 @@ MonoBehaviour:
     pips: []
   spriteRenderers: []
   state: 0
-  hiddenBy: []
-  layoutID: 0
-  slotDef:
-    x: 0
-    y: 0
-    faceUp: 0
-    layerName: Default
-    layerID: 0
-    id: 0
-    hiddenBy: 
-    type: slot
-    stagger: {x: 0, y: 0}
+  bezierPts: []
+  bezierRots: []
+  timeStart: 0
+  timeDuration: 0
+  reportFinishTo: {fileID: 0}
