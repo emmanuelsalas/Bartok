@@ -90,7 +90,6 @@
 'Assets/__Scripts/CardProspector.cs'
 'Assets/__Scripts/Deck.cs'
 'Assets/__Scripts/FloatingScore.cs'
-'Assets/__Scripts/Layout.cs'
 'Assets/__Scripts/PT_XMLReader.cs'
 'Assets/__Scripts/Prospector.cs'
 'Assets/__Scripts/Scoreboard.cs'

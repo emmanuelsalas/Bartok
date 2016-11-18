@@ -84,12 +84,12 @@
 -define:UNITY_EDITOR_OSX
 -define:UNITY_TEAM_LICENSE
 'Assets/__Scripts/Bartok.cs'
+'Assets/__Scripts/BartokLayout.cs'
 'Assets/__Scripts/Card.cs'
 'Assets/__Scripts/CardBartok.cs'
 'Assets/__Scripts/CardProspector.cs'
 'Assets/__Scripts/Deck.cs'
 'Assets/__Scripts/FloatingScore.cs'
-'Assets/__Scripts/Layout.cs'
 'Assets/__Scripts/PT_XMLReader.cs'
 'Assets/__Scripts/Prospector.cs'
 'Assets/__Scripts/Scoreboard.cs'
