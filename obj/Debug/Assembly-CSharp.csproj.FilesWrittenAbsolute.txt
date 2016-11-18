@@ -1,0 +1,13 @@
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/UnityEngine.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/UnityEditor.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mannysalas/Documents/GitHub/Bartok/Temp/bin/Debug/Mono.Cecil.Mdb.dll
